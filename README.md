@@ -62,6 +62,7 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
+
 🎯 Goals
 To showcase proficiency in data engineering and analytics.
 To provide a practical example of building and using a data warehouse for business intelligence.
@@ -71,6 +72,7 @@ SQL Server: Data warehouse and analytics implementation.
 SQL: ETL pipelines and analytics development.
 DrawIO: For Drawing Diagrams and Data Models.
 Notion: For Project Management.
+
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
